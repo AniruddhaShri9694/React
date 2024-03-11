@@ -1,5 +1,9 @@
 function Box() {
-  return <div>{1 + 1}</div>;
+  return <div>
+    <div>
+        Box Component
+      </div>
+    </div>;
 }
 
 export default Box;
